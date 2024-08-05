@@ -1,0 +1,1 @@
+Developed a comprehensive project forecasting system incorporating ARIMA model, effectively utilizing historical data to predict future sales of products of a retail store. Utilized advanced statistical techniques to analyze historical trends, enabling precise forecasting
